@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'DataBinding3';
+  isPrimary:boolean=true;
+  isActive:boolean=false;
 }
